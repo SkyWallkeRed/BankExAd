@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+}
+
+.frame {
+    font-family: "ariel-regular"sans-serif;
+    margin: auto;
+    width: 25%;
+    border-radius: 10%;
+    border: 2px solid greenyellow;
+    margin-top: 10%;
+}
+
+.contA {
+    color: white;
+    direction: rtl;
+    margin: auto;
+    width: 100%;
+    border: 2px solid #c2031d;
+    text-align: center;
+    background-color: #c2031d;
+    border-top-right-radius: 3%;
+    border-top-left-radius: 3%;
+}
+
+h3 {
+    margin-bottom: 6%;
+}
+
+input {
+    width: 88%;
+    height: 5%;
+    border-radius: 3.14%;
+}
+
+.input1 {
+    margin-bottom: 3%;
+    background-color: white;
+}
+
+.input2 {
+    margin-bottom: 4.5%;
+    background-color: whitesmoke;
+}
+
+button {
+    color: #c2031d !important;
+    text-align: center !important;
+    font-family: inherit !important;
+    font-size: 1.3em !important;
+    margin-bottom: 2%;
+    border-radius: 50px !important;
+    width: 45%;
+    height: 35px;
+    background-color: whitesmoke;
+}
+
+.lostP {
+    margin-bottom: 15%;
+    padding-bottom: 10%;
+    padding-bottom: 1%;
+    font-size: 1.3em;
+}
+
+.contB {
+    /* border: 2px solid white; */
+    width: 100%;
+    background-color: #ae0217;
+    text-align: center;
+    display: inline-block;
+    border-bottom-right-radius: 3%;
+    border-bottom-left-radius: 3%;
+}
+
+.containerP2 {
+    text-align: center;
+    display: inline-block;
+    border: 2px solid re;
+    width: 88%;
+    margin-bottom: 7%;
+    height: 8%;
+    padding-top: 6%;
+    border: 2px solid white;
+    background-color: whitesmoke;
+    border-radius: 2%;
+    margin-top: 30px;
+}
+
+img {
+    width: 1.5em;
+    height: 1.5em;
+    margin-left: 8%;
+    box-shadow: 4px lightgray;
+}
+
+.aTag {
+    color: #4e4e4e;
+    font-weight: normal;
+    color: darkblue !important;
+    font-weight: bold !important;
+}
+
+.openAccLogo {
+    font-size: 1.3em;
+}
+
+.joinP {
+    padding-bottom: 4%;
+    color: white;
+    font-size: 1.3em;
+}
+
+::-webkit-input-placeholder {
+    font-size: 1.3em;
+}
